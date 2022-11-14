@@ -28,3 +28,15 @@ For building application
 
 Deploying application
 > Go to FileStorageServiceApplication.java class right click and run this application to deploy
+
+
+After successful deploying please open below swagger link to test apis
+
+http://localhost:8080/swagger-ui.html
+
+
+> You can see 3 apis
+
+> Upload
+> delete
+> list
