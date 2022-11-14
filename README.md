@@ -23,4 +23,4 @@ For building application
 
 
 Deploying application
-> Go to FileStorageServiceApplication.java class and run this application to deploy
+> Go to FileStorageServiceApplication.java class right click and run this application to deploy
