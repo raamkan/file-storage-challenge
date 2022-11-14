@@ -15,7 +15,11 @@ WINDOWS
 https://www.simplilearn.com/tutorials/gradle-tutorial/gradle-installation
 
 
-Import this code into Intellij tool
+Import
+file-storage-service under file-storage-challenge into your intellij
+
+file-storage-service 
+
 Run below mentioned commands
 
 For building application 
