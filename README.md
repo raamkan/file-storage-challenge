@@ -40,3 +40,12 @@ http://localhost:8080/swagger-ui.html
 > Upload
 > delete
 > list
+
+
+
+
+
+
+MY SQL Database has been used to store information
+
+![image](https://user-images.githubusercontent.com/35916761/201628623-10390cfe-8a91-4f61-a2d5-5be58a0e10dc.png)
